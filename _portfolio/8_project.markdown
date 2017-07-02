@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Interior Exterior
-description: Sculpture from iron, 2010
+title: Topos-Utopos
+description: Wood, 2013
 img: /img/interior-exterior1.jpeg
 ---
 
-Here I would like to talk a bit about the concept of this piece. Also there are some interesting additional images below.
+The wooden cube goes accompanied by the technical information plate. This informs of a potential inner space. The expectator will have to trust or not, that this place exists.
 
 
 <div class="img_row">
@@ -18,5 +18,4 @@ Here I would like to talk a bit about the concept of this piece. Also there are 
   <img class="col three" src="/img/interior-exterior3.jpeg"/>
 </div>
 <div class="col three caption">
-	Some additional photos.
 </div>
