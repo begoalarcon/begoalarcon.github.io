@@ -57,21 +57,21 @@ permalink: /about/
 <b>LahdenTaideinstuutitin</b>, Exchange semester, Lahti, Finland.<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">2007-2008</p>
 </div>
 <h4>Painting (sfumato technique) Drawing and Print Making Workshop</h4>
 <b>Instituto Bottichelli</b>Cuernavaca, Morelos, Mexico.<br/>
 Two semesters.<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">2007-2008</p>
 </div>
 <h4>Sculpture Workshop</h4>
 Centro Morelense de las Artes,Cuernavaca, Morelos, Mexico. <br/>
 Three semesters.<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">2006-2007</p>
 </div>
 <h4>Diploma in Photography</h4>
 Escuela Activa de Fotografía, Cuernavaca, Morelos, Mexico <br/>
@@ -81,14 +81,14 @@ Nine trimesters.<br/>
 <hr/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">July, 2014</p>
 </div>
 <h4>Intensive Portrait Course, Modelling</h4>
 <b>tallerBDN</b>, Badalona, España<br/>
 8 Hours<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">June-July, 2014</p>
 </div>
 <h4>Safi  Ceramics Seminar</h4>
 <b>Escola Massana</b> y <b>Centro de Arte Contemporáneo de Essauira</b>, <br/>
@@ -96,14 +96,21 @@ Ifitry, Essauira, Morocco.<br/>
 7 Days<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">March, 2014</p>
 </div>
 <h4>Black Ceramics Seminar</h4>
 <b>Escola Massana</b>, <b>Taller Kypsela</b> in Sant Feliu de Guíxols, <b>Museu d'Història de Sant Feliu de Guíxols</b> and <b>Taller Marcó</b> in Quart, Spain.<br/>
 7 days<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">March, 2013</p>
+</div>
+<h4>Black Ceramics Seminar</h4>
+<b>Escola Massana</b>, <b>Taller Kypsela</b> in Sant Feliu de Guíxols, <b>Museu d'Història de Sant Feliu de Guíxols</b> and <b>Taller Marcó</b> in Quart, Spain.<br/>
+7 days<br/>
+<br/>
+<div id="textbox">
+  <p class="alignright">2008</p>
 </div>
 <h4>Novohispanic Imagery Sculpture Internacional Course</h4>
 <b>Museo Amparo</b> and the <b>Institute of Aesthetic Research of the Autonomous University of Mexico (Instituto de Investigaciones Estéticas de la Universidad Autónoma de México)</b>.<br/>
@@ -115,7 +122,7 @@ Puebla, México<br/>
 <hr/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">Feb. 2nd - 4th, 2017</p>
 </div>
 <h4>COLLAGE</h4>
 Galerie du quai. isdaT, Toulouse, France<br/>
