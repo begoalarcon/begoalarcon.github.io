@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Untitled
-description: leaves and iron, 2014
+description: 70 x 140 x 70 cm leaves and iron, 2014
 img: /img/_MG_9137.jpg
 ---
 
