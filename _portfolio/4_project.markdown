@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Continuity#1
+title: Continuity #1
 description: Collage, 2017
 img: /img/continuityno1-1.jpeg
 ---
