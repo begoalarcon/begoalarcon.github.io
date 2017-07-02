@@ -2,7 +2,7 @@
 layout: post
 title: Virgen de los tres niños
 description: Ceramic, 2013
-img: /img/virgen-de-los-3-ninos1.jpeg
+img: /img/virgen-de-los-3-ninos2.jpeg
 ---
 
 
