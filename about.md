@@ -36,6 +36,10 @@ permalink: /about/
 
 <br/>
 <h3>Education</h3> <br/>
+<div id="textbox">
+  <p class="alignleft">Text on the left.</p>
+  <p class="alignright">Text on the right.</p>
+</div>
 <h4>Master of Fine Arts </h4><br/>
 isdaT institut supérieur des arts de Toulouse, Beaux Arts<br/>
 <br/>
