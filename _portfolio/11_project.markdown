@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Raval
+title: Menhir
 description: Sculpture from iron, 2010
 img: /img/menhir1.jpeg
 ---
