@@ -31,7 +31,10 @@ permalink: /about/
 <br/>
 <hr/>
 <br/>
-
+<h2>CV</h2>
+<br/>
+<hr/>
+<br/>
 
 
 <br/>
