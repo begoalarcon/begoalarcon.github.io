@@ -38,7 +38,7 @@ Begoña Alarcón <br/>
 Tauroggener Str. 12, 10589 Berlin <br/>
 
 <br/>
-Education <br/>
+<h2>Education</h2> <br/>
 Master of Fine Arts <br/>
 isdaT institut supérieur des arts de Toulouse, Beaux Arts<br/>
 <br/>
@@ -53,10 +53,13 @@ Exchange semester, Lahti, Finland.<br/>
 <br/>
 Painting (sfumato technique) Drawing and Print Making Workshop Instituto Bottichelli,<br/>
 Cuernavaca, Morelos, Mexico.<br/>
-
-Two semesters.
-Sculpture Workshop
-Centro Morelense de las Artes,Cuernavaca, Morelos, Mexico. Three semesters.
-Diploma in Photography
-Escuela Activa de Fotografía, Cuernavaca, Morelos, Mexico Nine trimesters.
+Two semesters.<br/>
+<br/>
+Sculpture Workshop<br/>
+Centro Morelense de las Artes,Cuernavaca, Morelos, Mexico. <br/>
+Three semesters.<br/>
+<br/>
+Diploma in Photography<br/>
+Escuela Activa de Fotografía, Cuernavaca, Morelos, Mexico <br/>
+Nine trimesters.<br/>
 
