@@ -32,12 +32,15 @@ permalink: /about/
 <hr/>
 <br/>
 
-Education
-Resume
-Begoña Alarcón
-+49 157 39618702 Tauroggener Str. 12, 10589 Berlin alarconbego@gmail.com behance.net/begoalarcon
-Master of Fine Arts
-isdaT institut supérieur des arts de Toulouse, Beaux Arts Kunsthochschule Weissensee, Exchange semester, Berlin, Germany
+
+Begoña Alarcón <br/>
++49 157 39618702 <br/>
+Tauroggener Str. 12, 10589 Berlin <br/>
+
+<br/>
+Education <br/>
+Master of Fine Arts <br/>
+isdaT institut supérieur des arts de Toulouse, Beaux Arts Kunsthochschule Weissensee, Exchange semester, Berlin, Germany <br/>
 Bachelor in Applied Arts to Sculpture
 (Ciclo Formativo de Grado Superior en Artes Aplicadas a la Escultura)
 Escola Massana, Barcelona, Spain. LahdenTaideinstuutitin, Exchange semester, Lahti, Finland.
