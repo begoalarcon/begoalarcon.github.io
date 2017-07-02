@@ -6,8 +6,8 @@ img: /img/untitled2.jpg
 ---
 
 <div class="img_row">
-  <img class="col two" src="/img/_MG_9162.tif"/>
-  <img class="col one" src="/img/_MG_9201.jpg"/>
+  <img class="col two" src="/img/untitled1.jpg"/>
+  <img class="col one" src="/img/untitled2.jpg"/>
 </div>
 
 <div class="img_row">
