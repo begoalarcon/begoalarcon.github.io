@@ -67,7 +67,6 @@ Escuela Activa de Fotografía, Cuernavaca, Morelos, Mexico <br/>
 Nine trimesters.<br/>
 <br/>
 <h3>Courses and Seminars</h3>
-<br/>
 <hr/>
 <br/>
 <h4>Intensive Portrait Course, Modelling</h4>
