@@ -62,7 +62,7 @@ Three semesters.<br/>
 <h4>Diploma in Photography</h4>
 Escuela Activa de Fotografía, Cuernavaca, Morelos, Mexico <br/>
 Nine trimesters.<br/>
-
+<br/>
 <h3>Courses and Seminars</h3> </br>
 <h4>Intensive Portrait Course, Modelling</h4>
 <b>tallerBDN</b>, Badalona, España<br/>
@@ -71,11 +71,14 @@ Nine trimesters.<br/>
 <h4>Safi  Ceramics Seminar</h4>
 <b>Escola Massana</b> y <b>Centro de Arte Contemporáneo de Essauira</b>, <br/>
 Ifitry, Essauira, Morocco.<br/>
-7 Days
+7 Days<br/>
 <br/>
 <h4>Black Ceramics Seminar</h4>
 <b>Escola Massana</b>, <b>Taller Kypsela</b> in Sant Feliu de Guíxols, <b>Museu d'Història de Sant Feliu de Guíxols</b> and <b>Taller Marcó</b> in Quart, Spain.<br/>
 7 days<br/>
 <br/>
-
-7 Days
+<h4>Novohispanic Imagery Sculpture Internacional Course</h4>
+<b>Museo Amparo</b> and the <b>Institute of Aesthetic Research of the Autonomous University of Mexico (Instituto de Investigaciones Estéticas de la Universidad Autónoma de México)</b>.<br/>
+Puebla, México<br/>
+18 Hours<br/>
+<br/>
