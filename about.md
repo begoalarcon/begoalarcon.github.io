@@ -32,4 +32,19 @@ permalink: /about/
 <hr/>
 <br/>
 
+Education
+Resume
+Begoña Alarcón
++49 157 39618702 Tauroggener Str. 12, 10589 Berlin alarconbego@gmail.com behance.net/begoalarcon
+Master of Fine Arts
+isdaT institut supérieur des arts de Toulouse, Beaux Arts Kunsthochschule Weissensee, Exchange semester, Berlin, Germany
+Bachelor in Applied Arts to Sculpture
+(Ciclo Formativo de Grado Superior en Artes Aplicadas a la Escultura)
+Escola Massana, Barcelona, Spain. LahdenTaideinstuutitin, Exchange semester, Lahti, Finland.
+Painting (sfumato technique) Drawing and Print Making Workshop Instituto Bottichelli, Cuernavaca, Morelos, Mexico.
+Two semesters.
+Sculpture Workshop
+Centro Morelense de las Artes,Cuernavaca, Morelos, Mexico. Three semesters.
+Diploma in Photography
+Escuela Activa de Fotografía, Cuernavaca, Morelos, Mexico Nine trimesters.
 
