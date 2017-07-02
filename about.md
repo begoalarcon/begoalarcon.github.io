@@ -36,7 +36,7 @@ permalink: /about/
 
 <br/>
 <h3>Education</h3> <br/>
-Master of Fine Arts <br/>
+<h4>Master of Fine Arts </h4><br/>
 isdaT institut supérieur des arts de Toulouse, Beaux Arts<br/>
 <br/>
 Kunsthochschule Weissensee,<br/>
