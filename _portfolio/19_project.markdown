@@ -2,7 +2,7 @@
 layout: post
 title: Venus
 description: Alabaster, wool and iron, 2014
-img: /img/venus1.jpeg
+img: /img/venus2.jpeg
 ---
 
 
