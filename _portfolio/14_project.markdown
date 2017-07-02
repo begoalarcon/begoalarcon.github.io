@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Palmar Grasp Reflex
-description:Alabaster, 2012
+description: Alabaster, 2012
 img: /img/palmar-grasp-reflex1.jpeg
 ---
 
