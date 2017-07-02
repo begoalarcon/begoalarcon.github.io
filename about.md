@@ -36,7 +36,6 @@ permalink: /about/
 
 <br/>
 <h3>Education</h3>
-<br/>
 <hr/>
 <br/>
 <div id="textbox">
@@ -88,14 +87,26 @@ Puebla, México<br/>
 18 Hours<br/>
 <br/>
 <h3>Collective Exhibitions</h3>
-<br/>
 <hr/>
 <br/>
 <h4>COLLAGE</h4>
-Galerie du quai. isdaT, Toulouse, France
+Galerie du quai. isdaT, Toulouse, France<br/>
+<br/>
+<h4>CONTEXT</h4> 
+Dels motlles Masó a la ceràmica negra contemporània<br/>
+<b>Museo d’Història de Sant Feliu de Guíxols</b><br/>
+Sant Feliu de Guíxols, Spain.<br/>
+<br/>
+Holliday Sale and Exhibition <b>MudFire Gallery</b><br/>
+Decatur, GA. USA<br/>
+<br/>
+Results exhibition of the 2nd Black Ceramics Seminar<br/>
+<b>Museo de la Terrisa de Quart</b><br/>
+Quart, Spain.<br/>
+<br/>
+
 
 <h3>Solo Exhibitions</h3>
-<br/>
 <hr/>
 <br/>
 
