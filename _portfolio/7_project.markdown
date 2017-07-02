@@ -2,7 +2,7 @@
 layout: post
 title: Heart to Brain
 description: bronce, 2012
-img: /img/hearttobrain1.jpeg
+img: /img/hearttobrain7.jpeg
 ---
 
 
