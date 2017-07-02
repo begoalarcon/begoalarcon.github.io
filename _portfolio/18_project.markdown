@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Uprooted
-description: Sculpture from iron, 2010
+description: Roots and cardboard, 2016
 img: /img/uprooted1.jpeg
 ---
-
-Here I would like to talk a bit about the concept of this piece. Also there are some interesting additional images below.
 
 
 <div class="img_row">
@@ -18,5 +16,4 @@ Here I would like to talk a bit about the concept of this piece. Also there are 
   <img class="col three" src="/img/uprooted3.jpeg"/>
 </div>
 <div class="col three caption">
-	Some additional photos.
 </div>
