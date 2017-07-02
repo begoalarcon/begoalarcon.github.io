@@ -40,14 +40,17 @@ permalink: /about/
   <p class="alignright">2016-2018</p>
 </div>
 <h4>Master of Fine Arts </h4>
-isdaT institut supérieur des arts de Toulouse, Beaux Arts<br/>
+<b>isdaT</b> institut supérieur des arts de Toulouse, Beaux Arts<br/>
 <div id="textbox">
   <p class="alignright">2017</p>
 </div>
 Kunsthochschule Weissensee,<br/>
 Exchange semester, Berlin, Germany <br/>
 <br/>
-Bachelor in Applied Arts to Sculpture<br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
+<h4>Bachelor in Applied Arts to Sculpture</h4>
 (Ciclo Formativo de Grado Superior en Artes Aplicadas a la Escultura)<br/>
 Escola Massana, Barcelona, Spain.<br/>
 LahdenTaideinstuutitin, <br/>
