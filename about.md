@@ -35,7 +35,7 @@ permalink: /about/
 
 
 <br/>
-<h3>Education</h3></br>
+<h3>Education</h3><br/>
 <div id="textbox">
   <p class="alignright">2016-2018</p>
 </div>
@@ -82,8 +82,11 @@ Ifitry, Essauira, Morocco.<br/>
 Puebla, México<br/>
 18 Hours<br/>
 <br/>
-<h3>Solo Exhibitions</h3><br/>
-
 <h3>Collective Exhibitions</h3><br/>
-<h4>Mycorrhiza</h4>
+
+<h3>Solo Exhibitions</h3><br/>
+<h4>COLLAGE</h4><br/>
+Galerie du quai. isdaT, Toulouse, France
+
+<h4>Mycorrhiza</h4><br/>
 <b>Gallery Lakay Claudele</b>, Atlanta, GA, USA
