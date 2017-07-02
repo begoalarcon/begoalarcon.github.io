@@ -128,7 +128,7 @@ Puebla, México<br/>
 Galerie du quai. isdaT, Toulouse, France<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">June 9th, 2016</p>
 </div>
 <h4>CONTEXT</h4> 
 Dels motlles Masó a la ceràmica negra contemporània<br/>
@@ -136,80 +136,88 @@ Dels motlles Masó a la ceràmica negra contemporània<br/>
 Sant Feliu de Guíxols, Spain<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">Nov. 28th, 2015</p>
 </div>
-Holliday Sale and Exhibition <b>MudFire Gallery</b><br/>
+Holliday Sale and Exhibition<br/>
+<b>MudFire Gallery</b><br/>
 Decatur, GA. USA<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">Nov. 2015</p>
 </div>
 Results exhibition of the 2nd Black Ceramics Seminar<br/>
 <b>Museo de la Terrisa de Quart</b><br/>
 Quart, Spain<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">March 12th, 2015</p>
 </div>
 Results exhibition of the 2nd Black Ceramics Seminar<br/>
 <b>Escola Massana</b><br/>
 Barcelona, Spain<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">June 12th, 2014</p>
 </div>
 Results exhibition of the 2nd Black Ceramics Seminar<br/>
 <b>Capella del Antic Hospital de Sant Feliu de Guíxols</b><br/>
  Sant Feliu de Guíxols, Spain<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">Feb. 3rd, 2014</p>
 </div>
 Results exhibition of the 1st Black Ceramics Seminar<br/>
 <b>Escola Massana</b><br/>
 Barcelona, Spain<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">Dic. 2nd - 16th, 2013</p>
 </div>
 Home Country is a Strawberry<br/>
 Lahden Taideinstituutin<br/>
 Lahti, Finland<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">Nov. 16th - 23rd, 2013</p>
 </div>
 Teosvältys<br/>
 Lahden Taideinstituutin<br/>
 Lahti, Finland<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">Sep. 23th - Nov. 7th, 2013</p>
 </div>
 TECHNÉ: La mà que pensa<br/>
 <b>Escola Massana</b><br/>
 Barcelona, Spain<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">June 20th, 2013</p>
 </div>
 Results exhibition of the 1st Black Ceramics Seminar<br/>
 <b>Capella del Antic Hospital de Sant Feliu de Guíxols</b><br/>
  Sant Feliu de Guíxols, Spain<br/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">May 10th - 24th, 2013</p>
 </div>
 Dualitats<br/>
 Centro Cultural Sant Feliu d’Hospitalet<br/>
 L’Hospitalet, Spain<br/>
+<br/>
+<div id="textbox">
+  <p class="alignright">April, 2013</p>
+</div>
+Results exhibition of the 1st Black Ceramics Seminar<br/>
+<b>Capella del Antic Hospital de Sant Feliu de Guíxols</b><br/>
+ Sant Feliu de Guíxols, Spain<br/>
 <br/>
 
 <h3>Solo Exhibitions</h3>
 <hr/>
 <br/>
 <div id="textbox">
-  <p class="alignright">2011-2014</p>
+  <p class="alignright">Nov. 21st - 29th, 2015</p>
 </div>
 <h4>Mycorrhiza</h4>
 <b>Gallery Lakay Claudele</b>, Atlanta, GA, USA
