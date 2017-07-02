@@ -35,7 +35,7 @@ permalink: /about/
 
 
 <br/>
-<h3>Education</h3> <br/>
+<h3>Education</h3>
 <div id="textbox">
   <p class="alignright">2016-2018</p>
 </div>
@@ -44,42 +44,28 @@ permalink: /about/
 <div id="textbox">
   <p class="alignright">2017</p>
 </div>
-Kunsthochschule Weissensee,<br/>
-Exchange semester, Berlin, Germany <br/>
+<b>Kunsthochschule Weissensee</b>, Exchange semester, Berlin, Germany <br/>
 <br/>
 <div id="textbox">
   <p class="alignright">2011-2014</p>
 </div>
 <h4>Bachelor in Applied Arts to Sculpture</h4>
 (Ciclo Formativo de Grado Superior en Artes Aplicadas a la Escultura)<br/>
-Escola Massana, Barcelona, Spain.<br/>
-LahdenTaideinstuutitin, <br/>
-Exchange semester, Lahti, Finland.<br/>
+<b>Escola Massana</b>, Barcelona, Spain.<br/>
+<b>LahdenTaideinstuutitin</b>, Exchange semester, Lahti, Finland.<br/>
 <br/>
-Painting (sfumato technique) Drawing and Print Making Workshop Instituto Bottichelli,<br/>
-Cuernavaca, Morelos, Mexico.<br/>
+<h4>Painting (sfumato technique) Drawing and Print Making Workshop</h4>
+<b>Instituto Bottichelli</b>Cuernavaca, Morelos, Mexico.<br/>
 Two semesters.<br/>
 <br/>
-Sculpture Workshop<br/>
+<h4>Sculpture Workshop</h4>
 Centro Morelense de las Artes,Cuernavaca, Morelos, Mexico. <br/>
 Three semesters.<br/>
 <br/>
-Diploma in Photography<br/>
+<h4>Diploma in Photography</h4>
 Escuela Activa de Fotografía, Cuernavaca, Morelos, Mexico <br/>
 Nine trimesters.<br/>
 
-<h3>Courses and Seminars</h3> <br/>
-Intensive Portrait Course, Modelling tallerBDN, Badalona, España
-8 Hours
-Sa  Ceramics Seminar
-Escola Massana y Centro de Arte Contemporáneo de Essauira, I try, Essauira, Morocco.
-7 Days
-Black Ceramics Seminar
-Escola Massana,Taller Kypsela in Sant Feliu de Guíxols, Museu d ́Història de Sant Feliu de Guíxols and Taller Marcó in Quart, Spain.
-7 Days
-Black Ceramics Seminar
-Escola Massana,Taller Kypsela in Sant Feliu de Guíxols, Museu d ́Història de Sant Feliu de Guíxols and Taller Marcó in Quart, Spain.
-7 Days
-Novohispanic Imagery Sculpture Internacional Course
-Museo Amparo and the Institute of Aesthetic Research of the Autonomous University of Mexico (Instituto de Investigaciones Estéticas de la Universidad Autónoma de México). Puebla, México
-18 Hours
+<h3>Courses and Seminars</h3> 
+<h4>Intensive Portrait Course, Modelling</h4>
+<b>tallerBDN</b>, Badalona, España
