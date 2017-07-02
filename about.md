@@ -39,9 +39,11 @@ permalink: /about/
 <div id="textbox">
   <p class="alignright">2016-2018</p>
 </div>
-<h4>Master of Fine Arts </h4><br/>
+<h4>Master of Fine Arts </h4>
 isdaT institut supérieur des arts de Toulouse, Beaux Arts<br/>
-<br/>
+<div id="textbox">
+  <p class="alignright">2017</p>
+</div>
 Kunsthochschule Weissensee,<br/>
 Exchange semester, Berlin, Germany <br/>
 <br/>
