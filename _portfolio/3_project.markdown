@@ -2,7 +2,7 @@
 layout: post
 title: Menhir
 description: Sculpture from iron, 2010
-img: /img/12.jpg
+img: /img/14.jpg
 ---
 
 Here I would like to talk a bit about the concept of this piece. Also there are some interesting additional images below.
