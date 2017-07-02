@@ -86,6 +86,7 @@ Ifitry, Essauira, Morocco.<br/>
 Puebla, México<br/>
 18 Hours<br/>
 <br/>
+
 <h3>Collective Exhibitions</h3>
 <hr/>
 <br/>
@@ -95,21 +96,50 @@ Galerie du quai. isdaT, Toulouse, France<br/>
 <h4>CONTEXT</h4> 
 Dels motlles Masó a la ceràmica negra contemporània<br/>
 <b>Museo d’Història de Sant Feliu de Guíxols</b><br/>
-Sant Feliu de Guíxols, Spain.<br/>
+Sant Feliu de Guíxols, Spain<br/>
 <br/>
 Holliday Sale and Exhibition <b>MudFire Gallery</b><br/>
 Decatur, GA. USA<br/>
 <br/>
 Results exhibition of the 2nd Black Ceramics Seminar<br/>
 <b>Museo de la Terrisa de Quart</b><br/>
-Quart, Spain.<br/>
+Quart, Spain<br/>
 <br/>
-
+Results exhibition of the 2nd Black Ceramics Seminar<br/>
+<b>Escola Massana</b><br/>
+Barcelona, Spain<br/>
+<br/>
+Results exhibition of the 2nd Black Ceramics Seminar<br/>
+<b>Capella del Antic Hospital de Sant Feliu de Guíxols</b><br/>
+ Sant Feliu de Guíxols, Spain<br/>
+<br/>
+Results exhibition of the 1st Black Ceramics Seminar<br/>
+<b>Escola Massana</b><br/>
+Barcelona, Spain<br/>
+<br/>
+Home Country is a Strawberry<br/>
+Lahden Taideinstituutin<br/>
+Lahti, Finland<br/>
+<br/>
+Teosvältys<br/>
+Lahden Taideinstituutin<br/>
+Lahti, Finland<br/>
+<br/>
+TECHNÉ: La mà que pensa<br/>
+<b>Escola Massana</b><br/>
+Barcelona, Spain<br/>
+<br/>
+Results exhibition of the 1st Black Ceramics Seminar<br/>
+<b>Capella del Antic Hospital de Sant Feliu de Guíxols</b><br/>
+ Sant Feliu de Guíxols, Spain<br/>
+<br/>
+Dualitats<br/>
+Centro Cultural Sant Feliu d’Hospitalet<br/>
+L’Hospitalet, Spain<br/>
+<br/>
 
 <h3>Solo Exhibitions</h3>
 <hr/>
 <br/>
-
-
 <h4>Mycorrhiza</h4>
 <b>Gallery Lakay Claudele</b>, Atlanta, GA, USA
