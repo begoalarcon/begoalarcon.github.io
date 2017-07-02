@@ -35,15 +35,12 @@ permalink: /about/
 
 
 <br/>
-<h3>Education</h3>
+<h3>Education</h3></br>
 <div id="textbox">
   <p class="alignright">2016-2018</p>
 </div>
 <h4>Master of Fine Arts </h4>
 <b>isdaT</b> institut supérieur des arts de Toulouse, Beaux Arts<br/>
-<div id="textbox">
-  <p class="alignright">2017</p>
-</div>
 <b>Kunsthochschule Weissensee</b>, Exchange semester, Berlin, Germany <br/>
 <br/>
 <div id="textbox">
@@ -66,6 +63,19 @@ Three semesters.<br/>
 Escuela Activa de Fotografía, Cuernavaca, Morelos, Mexico <br/>
 Nine trimesters.<br/>
 
-<h3>Courses and Seminars</h3> 
+<h3>Courses and Seminars</h3> </br>
 <h4>Intensive Portrait Course, Modelling</h4>
-<b>tallerBDN</b>, Badalona, España
+<b>tallerBDN</b>, Badalona, España<br/>
+8 Hours<br/>
+<br/>
+<h4>Safi  Ceramics Seminar</h4>
+<b>Escola Massana</b> y <b>Centro de Arte Contemporáneo de Essauira</b>, <br/>
+Ifitry, Essauira, Morocco.<br/>
+7 Days
+<br/>
+<h4>Black Ceramics Seminar</h4>
+<b>Escola Massana</b>, <b>Taller Kypsela</b> in Sant Feliu de Guíxols, <b>Museu d'Història de Sant Feliu de Guíxols</b> and <b>Taller Marcó</b> in Quart, Spain.<br/>
+7 days<br/>
+<br/>
+
+7 Days
