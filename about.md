@@ -40,11 +40,20 @@ Tauroggener Str. 12, 10589 Berlin <br/>
 <br/>
 Education <br/>
 Master of Fine Arts <br/>
-isdaT institut supérieur des arts de Toulouse, Beaux Arts Kunsthochschule Weissensee, Exchange semester, Berlin, Germany <br/>
-Bachelor in Applied Arts to Sculpture
-(Ciclo Formativo de Grado Superior en Artes Aplicadas a la Escultura)
-Escola Massana, Barcelona, Spain. LahdenTaideinstuutitin, Exchange semester, Lahti, Finland.
-Painting (sfumato technique) Drawing and Print Making Workshop Instituto Bottichelli, Cuernavaca, Morelos, Mexico.
+isdaT institut supérieur des arts de Toulouse, Beaux Arts<br/>
+<br/>
+Kunsthochschule Weissensee,<br/>
+Exchange semester, Berlin, Germany <br/>
+<br/>
+Bachelor in Applied Arts to Sculpture<br/>
+(Ciclo Formativo de Grado Superior en Artes Aplicadas a la Escultura)<br/>
+Escola Massana, Barcelona, Spain.<br/>
+LahdenTaideinstuutitin, <br/>
+Exchange semester, Lahti, Finland.<br/>
+<br/>
+Painting (sfumato technique) Drawing and Print Making Workshop Instituto Bottichelli,<br/>
+Cuernavaca, Morelos, Mexico.<br/>
+
 Two semesters.
 Sculpture Workshop
 Centro Morelense de las Artes,Cuernavaca, Morelos, Mexico. Three semesters.
