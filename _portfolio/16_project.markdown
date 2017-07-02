@@ -17,6 +17,9 @@ Here I would like to talk a bit about the concept of this piece. Also there are 
 <div class="img_row">
   <img class="col three" src="/img/time3.jpeg"/>
 </div>
+<div class="img_row">
+  <img class="col three" src="/img/time4.jpeg"/>
+</div>
 <div class="col three caption">
 	Some additional photos.
 </div>
