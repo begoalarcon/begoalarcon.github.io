@@ -63,7 +63,7 @@ Three semesters.<br/>
 Escuela Activa de Fotografía, Cuernavaca, Morelos, Mexico <br/>
 Nine trimesters.<br/>
 <br/>
-<h3>Courses and Seminars</h3> </br>
+<h3>Courses and Seminars</h3> <br/>
 <h4>Intensive Portrait Course, Modelling</h4>
 <b>tallerBDN</b>, Badalona, España<br/>
 8 Hours<br/>
@@ -82,3 +82,8 @@ Ifitry, Essauira, Morocco.<br/>
 Puebla, México<br/>
 18 Hours<br/>
 <br/>
+<h3>Solo Exhibitions</h3><br/>
+
+<h3>Collective Exhibitions</h3><br/>
+<h4>Mycorrhiza</h4>
+<b>Gallery Lakay Claudele</b>, Atlanta, GA, USA
