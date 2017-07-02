@@ -1,5 +1,6 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: about
 permalink: /about/
 ---
@@ -37,6 +38,12 @@ permalink: /about/
 <br/>
 
 
+=======
+title: cv
+permalink: /cv/
+---
+
+>>>>>>> origin/master
 <br/>
 <h3>Education</h3>
 <hr/>
