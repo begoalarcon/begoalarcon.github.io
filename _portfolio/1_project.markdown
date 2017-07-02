@@ -15,3 +15,11 @@ Here I would like to talk a bit about the concept of this piece. Also there are 
 <div class="col three caption">
 	Some additional photos.
 </div>
+<div class="img_row">
+  <img class="col two" src="/img/6.jpg"/>
+  <img class="col one" src="/img/11.jpg"/>
+</div>
+
+<div class="img_row">
+  <img class="col three" src="/img/6.jpg"/>
+</div>
