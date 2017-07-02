@@ -56,14 +56,23 @@ permalink: /about/
 <b>Escola Massana</b>, Barcelona, Spain.<br/>
 <b>LahdenTaideinstuutitin</b>, Exchange semester, Lahti, Finland.<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 <h4>Painting (sfumato technique) Drawing and Print Making Workshop</h4>
 <b>Instituto Bottichelli</b>Cuernavaca, Morelos, Mexico.<br/>
 Two semesters.<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 <h4>Sculpture Workshop</h4>
 Centro Morelense de las Artes,Cuernavaca, Morelos, Mexico. <br/>
 Three semesters.<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 <h4>Diploma in Photography</h4>
 Escuela Activa de Fotografía, Cuernavaca, Morelos, Mexico <br/>
 Nine trimesters.<br/>
@@ -71,19 +80,31 @@ Nine trimesters.<br/>
 <h3>Courses and Seminars</h3>
 <hr/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 <h4>Intensive Portrait Course, Modelling</h4>
 <b>tallerBDN</b>, Badalona, España<br/>
 8 Hours<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 <h4>Safi  Ceramics Seminar</h4>
 <b>Escola Massana</b> y <b>Centro de Arte Contemporáneo de Essauira</b>, <br/>
 Ifitry, Essauira, Morocco.<br/>
 7 Days<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 <h4>Black Ceramics Seminar</h4>
 <b>Escola Massana</b>, <b>Taller Kypsela</b> in Sant Feliu de Guíxols, <b>Museu d'Història de Sant Feliu de Guíxols</b> and <b>Taller Marcó</b> in Quart, Spain.<br/>
 7 days<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 <h4>Novohispanic Imagery Sculpture Internacional Course</h4>
 <b>Museo Amparo</b> and the <b>Institute of Aesthetic Research of the Autonomous University of Mexico (Instituto de Investigaciones Estéticas de la Universidad Autónoma de México)</b>.<br/>
 Puebla, México<br/>
@@ -93,49 +114,85 @@ Puebla, México<br/>
 <h3>Collective Exhibitions</h3>
 <hr/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 <h4>COLLAGE</h4>
 Galerie du quai. isdaT, Toulouse, France<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 <h4>CONTEXT</h4> 
 Dels motlles Masó a la ceràmica negra contemporània<br/>
 <b>Museo d’Història de Sant Feliu de Guíxols</b><br/>
 Sant Feliu de Guíxols, Spain<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 Holliday Sale and Exhibition <b>MudFire Gallery</b><br/>
 Decatur, GA. USA<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 Results exhibition of the 2nd Black Ceramics Seminar<br/>
 <b>Museo de la Terrisa de Quart</b><br/>
 Quart, Spain<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 Results exhibition of the 2nd Black Ceramics Seminar<br/>
 <b>Escola Massana</b><br/>
 Barcelona, Spain<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 Results exhibition of the 2nd Black Ceramics Seminar<br/>
 <b>Capella del Antic Hospital de Sant Feliu de Guíxols</b><br/>
  Sant Feliu de Guíxols, Spain<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 Results exhibition of the 1st Black Ceramics Seminar<br/>
 <b>Escola Massana</b><br/>
 Barcelona, Spain<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 Home Country is a Strawberry<br/>
 Lahden Taideinstituutin<br/>
 Lahti, Finland<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 Teosvältys<br/>
 Lahden Taideinstituutin<br/>
 Lahti, Finland<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 TECHNÉ: La mà que pensa<br/>
 <b>Escola Massana</b><br/>
 Barcelona, Spain<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 Results exhibition of the 1st Black Ceramics Seminar<br/>
 <b>Capella del Antic Hospital de Sant Feliu de Guíxols</b><br/>
  Sant Feliu de Guíxols, Spain<br/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 Dualitats<br/>
 Centro Cultural Sant Feliu d’Hospitalet<br/>
 L’Hospitalet, Spain<br/>
@@ -144,5 +201,8 @@ L’Hospitalet, Spain<br/>
 <h3>Solo Exhibitions</h3>
 <hr/>
 <br/>
+<div id="textbox">
+  <p class="alignright">2011-2014</p>
+</div>
 <h4>Mycorrhiza</h4>
 <b>Gallery Lakay Claudele</b>, Atlanta, GA, USA
