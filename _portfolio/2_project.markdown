@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Raval
-description: Sculpture from iron, 2010
+title: Marentus
+description: Public installation,Bronce, 2011
 img: /img/raval1.jpeg
 ---
 
-Here I would like to talk a bit about the concept of this piece. Also there are some interesting additional images below.
+Marentus was a project specificly concieved for the "Rambla del Raval" in Barcelona, taking in account the history of the neighborhood and this specific street. I placed several bronce bees in unexpected places on the street.
 
 
 <div class="img_row">
