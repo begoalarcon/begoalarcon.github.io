@@ -19,6 +19,11 @@ I am an artist working on sculptures. I work on topics around the subject of hom
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	Best to contact me via email.
 </div>
+
+<br/>
+<hr/>
+<br/>
+
 
