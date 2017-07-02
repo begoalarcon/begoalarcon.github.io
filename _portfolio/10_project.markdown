@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Liber
-description: Sculpture from iron, 2010
+description: Resin, 2012
 img: /img/liber1.jpeg
 ---
-
-Here I would like to talk a bit about the concept of this piece. Also there are some interesting additional images below.
 
 
 <div class="img_row">
@@ -21,5 +19,4 @@ Here I would like to talk a bit about the concept of this piece. Also there are 
 </div>
 
 <div class="col three caption">
-	Some additional photos.
 </div>
