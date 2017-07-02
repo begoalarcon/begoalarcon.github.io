@@ -15,7 +15,7 @@ I am an artist working on sculptures. I work on topics around the subject of hom
 <span class="contacticon center">
 	<a href="mailto:alarconbego@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://www.behance.net/begoalarcon" target="_blank"><i class="fa fa-behance-square"></i></a>
-	<a href="https://www.instagram.com/begoalagu/" target="_blank"><i class="fa fa-instagram-square"></i></a>
+	<a href="https://www.instagram.com/begoalagu/" target="_blank"><i class="fa fa-instagram"></i></a>
 </span>
 
 <div class="col three caption">
