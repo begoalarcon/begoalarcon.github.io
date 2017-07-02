@@ -7,8 +7,10 @@ permalink: /about/
 <img class="col one right" style="height:200px" src="/img/prof_pic.jpg">
 
 <br/>
-I am an artist working on sculptures. I work on topics around the subject of home and attachment. Currently, I am studying for a postgraduate degree in Toulouse, and am currently doing an exchange semester at KH Weissensee in Berlin.
 
+<div style="text-align: justify;">
+   <div>I am an artist working on sculptures. I work on topics around the subject of home and attachment. Currently, I am studying for a postgraduate degree in Toulouse, and am currently doing an exchange semester at KH Weissensee in Berlin.</div>
+</div>
 <br/>
 
 <br/>
