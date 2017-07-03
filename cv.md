@@ -26,14 +26,14 @@ permalink: /cv/
   <p class="alignright">2007-2008</p>
 </div>
 <h4>Painting (sfumato technique) Drawing and Print Making Workshop</h4>
-<b>Instituto Bottichelli</b>Cuernavaca, Morelos, Mexico.<br/>
+<b>Instituto Bottichelli</b>, Cuernavaca, Morelos, Mexico.<br/>
 Two semesters.<br/>
 <br/>
 <div id="textbox">
   <p class="alignright">2007-2008</p>
 </div>
 <h4>Sculpture Workshop</h4>
-Centro Morelense de las Artes,Cuernavaca, Morelos, Mexico. <br/>
+<b>Centro Morelense de las Artes</b>, Cuernavaca, Morelos, Mexico. <br/>
 Three semesters.<br/>
 <br/>
 <div id="textbox">
