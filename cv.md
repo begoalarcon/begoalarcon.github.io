@@ -90,13 +90,13 @@ Puebla, México<br/>
 <div id="textbox">
   <p class="alignright">Feb. 2nd - 4th, 2017</p>
 </div>
-<h4>COLLAGE</h4>
+COLLAGE<br/>
 <b>Galerie du quai</b>, isdaT, Toulouse, France<br/>
 <br/>
 <div id="textbox">
   <p class="alignright">June 9th, 2016</p>
 </div>
-<h4>CONTEXT</h4> 
+CONTEXT<br/>
 Dels motlles Masó a la ceràmica negra contemporània<br/>
 <b>Museo d’Història de Sant Feliu de Guíxols</b><br/>
 Sant Feliu de Guíxols, Spain<br/>
@@ -140,14 +140,14 @@ Barcelona, Spain<br/>
   <p class="alignright">Dic. 2nd - 16th, 2013</p>
 </div>
 Home Country is a Strawberry<br/>
-Lahden Taideinstituutin<br/>
+<b>Lahden Taideinstituutin</b><br/>
 Lahti, Finland<br/>
 <br/>
 <div id="textbox">
   <p class="alignright">Nov. 16th - 23rd, 2013</p>
 </div>
 Teosvältys<br/>
-Lahden Taideinstituutin<br/>
+<b>Lahden Taideinstituutin</b><br/>
 Lahti, Finland<br/>
 <br/>
 <div id="textbox">
@@ -168,7 +168,7 @@ Results exhibition of the 1st Black Ceramics Seminar<br/>
   <p class="alignright">May 10th - 24th, 2013</p>
 </div>
 Dualitats<br/>
-Centro Cultural Sant Feliu d’Hospitalet<br/>
+<b>Centro Cultural Sant Feliu d’Hospitalet</b><br/>
 L’Hospitalet, Spain<br/>
 <br/>
 <div id="textbox">
@@ -185,5 +185,5 @@ Results exhibition of the 1st Black Ceramics Seminar<br/>
 <div id="textbox">
   <p class="alignright">Nov. 21st - 29th, 2015</p>
 </div>
-<h4>Mycorrhiza</h4>
+Mycorrhiza<br/>
 <b>Gallery Lakay Claudele</b>, Atlanta, GA, USA
