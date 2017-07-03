@@ -40,7 +40,7 @@ Three semesters.<br/>
   <p class="alignright">2006-2007</p>
 </div>
 <h4>Diploma in Photography</h4>
-Escuela Activa de Fotografía, Cuernavaca, Morelos, Mexico <br/>
+<b>Escuela Activa de Fotografía</b>, Cuernavaca, Morelos, Mexico <br/>
 Nine trimesters.<br/>
 <br/>
 <h3>Courses and Seminars</h3>
@@ -91,7 +91,7 @@ Puebla, México<br/>
   <p class="alignright">Feb. 2nd - 4th, 2017</p>
 </div>
 <h4>COLLAGE</h4>
-Galerie du quai. isdaT, Toulouse, France<br/>
+<b>Galerie du quai</b>, isdaT, Toulouse, France<br/>
 <br/>
 <div id="textbox">
   <p class="alignright">June 9th, 2016</p>
