@@ -2,7 +2,7 @@
 layout: post
 title: Marentus
 description: Public installation, Bronce, 2011
-img: /img/raval2.jpeg
+img: /img/raval12.jpeg
 ---
 
 Marentus was a project specificly concieved for the "Rambla del Raval" in Barcelona, taking in account the history of the neighborhood and this specific street. I placed several bronce bees in unexpected places on the street.
