@@ -27,9 +27,6 @@ Marentus was a project specificly concieved for the "Rambla del Raval" in Barcel
   <img class="col three" src="/img/raval6.jpeg"/>
 </div>
 <div class="img_row">
-  <img class="col three" src="/img/raval7.jpeg"/>
-</div>
-<div class="img_row">
   <img class="col three" src="/img/raval8.jpeg"/>
 </div>
 <div class="img_row">
