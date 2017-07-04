@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heart to Brain
-description: bronce, 2012
+description: Bronce, 2012
 img: /img/hearttobrain3.jpeg
 ---
 
