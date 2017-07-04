@@ -2,7 +2,7 @@
 layout: post
 title: Uprooted
 description: Roots and cardboard, 2016
-img: /img/uprooted1.jpeg
+img: /img/uprooted4.jpeg
 ---
 
 

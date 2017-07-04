@@ -2,7 +2,7 @@
 layout: post
 title: Continuity #3
 description: Collage, 2017
-img: /img/continuityno3-1.jpeg
+img: /img/continuityno3-2.jpeg
 ---
 
 
