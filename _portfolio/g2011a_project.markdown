@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marentus
-description: Public installation,Bronce, 2011
+description: Public installation, Bronce, 2011
 img: /img/raval1.jpeg
 ---
 
