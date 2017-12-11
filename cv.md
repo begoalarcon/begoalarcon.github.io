@@ -91,19 +91,22 @@ Puebla, México<br/>
   <p class="alignright">July 22nd - 23rd, 2017</p>
 </div>
 Rundgang<br/>
-<b>Kunsthochschule Weißensee</b>, Berlin, Germany<br/>
+<b>Kunsthochschule Weißensee</b><br/>
+Berlin, Germany<br/>
 <br/>
 <div id="textbox">
   <p class="alignright">July 6th - 14th, 2017</p>
 </div>
 Today is an Uncanny Site - Synaesthesia<br/>
-<b>Wiensowski & Harbord Galerie</b>, Berlin, Germany<br/>
+<b>Wiensowski & Harbord Galerie</b><br/>
+Berlin, Germany<br/>
 <br/>
 <div id="textbox">
   <p class="alignright">Feb. 2nd - 4th, 2017</p>
 </div>
 COLLAGE<br/>
-<b>Galerie du quai</b>, isdaT, Toulouse, France<br/>
+<b>Galerie du quai</b><br/>
+isdaT, Toulouse, France<br/>
 <br/>
 <div id="textbox">
   <p class="alignright">June 9th, 2016</p>
