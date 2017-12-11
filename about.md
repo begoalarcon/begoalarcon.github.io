@@ -9,7 +9,7 @@ permalink: /about/
 <br/>
 
 <div style="text-align: justify; margin-right: 20px;">
-   <div>I am a sculptor, my works speak about the subjects of home, attachment, and the mind. Currently, I am studying for a postgraduate degree in Toulouse, and am currently doing an exchange semester at KH Weissensee in Berlin.</div>
+   <div>I am a sculptor, my works speak about the subjects of home, attachment, and the mind. Currently, I am studying for a postgraduate degree in Toulouse.</div>
 </div>
 <br/>
 
